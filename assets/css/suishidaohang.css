@@ -1,0 +1,59 @@
+
+body {
+  min-width: 750px;
+  background-color: #f5f5f5;
+  font-family: Helvetica Neue
+}
+
+ul {
+  list-style: none
+}
+
+a {
+  outline: 0;
+  color: #000;
+  text-decoration: none
+}
+
+.suiShiDaoHang {
+  margin-bottom: 5px;
+  width: 100%;
+  height: 100px;
+  text-align: center;
+}
+.suiShiDaoHang .search {
+  position: relative;
+  z-index: 10;
+  margin: 2px auto;
+  padding: 30px;
+  width: 700px;
+  height: 50px;
+}
+.suiShiDaoHang .search input {
+  float: left;
+  font-size: 16px;
+  border: none;
+  background-color: #f5f5f5
+}
+.suiShiDaoHang input.content {
+  padding-left: 3px;
+  width: 460px;
+  height: 50px;
+  text-indent: 4px
+}
+.suiShiDaoHang input.button {
+  width: 180px;
+  height: 50px;
+  background-color: #F0612E;
+  color: #fff;
+  font-size: 18px;
+  line-height: 50px;
+  opacity: .9;
+  cursor: pointer;
+  -webkit-appearance: none
+}
+
+body, div, figcaption, h2, h3, h4, img, input, li, p, ul {
+  margin: 0;
+  padding: 0
+}
