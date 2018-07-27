@@ -960,6 +960,7 @@ body {
     padding-right: 40px;
     margin-top: 20px;
     margin-bottom: 20px;
+    font-size: 15px;
     list-style: none
 }
 
@@ -974,7 +975,7 @@ body {
     color: #979898;
     text-decoration: none;
     display: block;
-    padding: 13px 5px;
+    padding: 13px 0px;
     border-bottom: 1px solid #313437
 }
 
