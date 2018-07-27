@@ -4962,7 +4962,7 @@ body.chat-open #chat {
 }
 
 .cbr-replaced.cbr-primary.cbr-checked span {
-    background-image: url(../images/ok-white-full.png)
+
 }
 
 .cbr-replaced.cbr-primary.cbr-radio .cbr-state {
@@ -4983,7 +4983,7 @@ body.chat-open #chat {
 }
 
 .cbr-replaced.cbr-secondary.cbr-checked span {
-    background-image: url(../images/ok-white-full.png)
+
 }
 
 .cbr-replaced.cbr-secondary.cbr-checked.cbr-radio .cbr-state span {
@@ -5000,7 +5000,7 @@ body.chat-open #chat {
 }
 
 .cbr-replaced.cbr-success.cbr-checked span {
-    background-image: url(../images/ok-white-full.png)
+
 }
 
 .cbr-replaced.cbr-success.cbr-checked.cbr-radio .cbr-state span {
@@ -5017,7 +5017,7 @@ body.chat-open #chat {
 }
 
 .cbr-replaced.cbr-info.cbr-checked span {
-    background-image: url(../images/ok-white-full.png)
+
 }
 
 .cbr-replaced.cbr-info.cbr-checked.cbr-radio .cbr-state span {
@@ -5034,7 +5034,7 @@ body.chat-open #chat {
 }
 
 .cbr-replaced.cbr-danger.cbr-checked span {
-    background-image: url(../images/ok-white-full.png)
+
 }
 
 .cbr-replaced.cbr-danger.cbr-checked.cbr-radio .cbr-state span {
@@ -5051,7 +5051,7 @@ body.chat-open #chat {
 }
 
 .cbr-replaced.cbr-warning.cbr-checked span {
-    background-image: url(../images/ok-white-full.png)
+
 }
 
 .cbr-replaced.cbr-warning.cbr-checked.cbr-radio .cbr-state span {
@@ -5068,7 +5068,7 @@ body.chat-open #chat {
 }
 
 .cbr-replaced.cbr-red.cbr-checked span {
-    background-image: url(../images/ok-white-full.png)
+
 }
 
 .cbr-replaced.cbr-red.cbr-checked.cbr-radio .cbr-state span {
@@ -5085,7 +5085,7 @@ body.chat-open #chat {
 }
 
 .cbr-replaced.cbr-blue.cbr-checked span {
-    background-image: url(../images/ok-white-full.png)
+
 }
 
 .cbr-replaced.cbr-blue.cbr-checked.cbr-radio .cbr-state span {
@@ -5102,7 +5102,7 @@ body.chat-open #chat {
 }
 
 .cbr-replaced.cbr-purple.cbr-checked span {
-    background-image: url(../images/ok-white-full.png)
+
 }
 
 .cbr-replaced.cbr-purple.cbr-checked.cbr-radio .cbr-state span {
@@ -5119,7 +5119,7 @@ body.chat-open #chat {
 }
 
 .cbr-replaced.cbr-pink.cbr-checked span {
-    background-image: url(../images/ok-white-full.png)
+
 }
 
 .cbr-replaced.cbr-pink.cbr-checked.cbr-radio .cbr-state span {
@@ -5136,7 +5136,7 @@ body.chat-open #chat {
 }
 
 .cbr-replaced.cbr-orange.cbr-checked span {
-    background-image: url(../images/ok-white-full.png)
+
 }
 
 .cbr-replaced.cbr-orange.cbr-checked.cbr-radio .cbr-state span {
@@ -5153,7 +5153,7 @@ body.chat-open #chat {
 }
 
 .cbr-replaced.cbr-turquoise.cbr-checked span {
-    background-image: url(../images/ok-white-full.png)
+
 }
 
 .cbr-replaced.cbr-turquoise.cbr-checked.cbr-radio .cbr-state span {
@@ -5170,7 +5170,7 @@ body.chat-open #chat {
 }
 
 .cbr-replaced.cbr-yellow.cbr-checked span {
-    background-image: url(../images/ok-white-full.png)
+
 }
 
 .cbr-replaced.cbr-yellow.cbr-checked.cbr-radio .cbr-state span {
@@ -5187,7 +5187,7 @@ body.chat-open #chat {
 }
 
 .cbr-replaced.cbr-gray.cbr-checked span {
-    background-image: url(../images/ok-white-full.png)
+
 }
 
 .cbr-replaced.cbr-gray.cbr-checked.cbr-radio .cbr-state span {
@@ -5199,7 +5199,7 @@ body.chat-open #chat {
 }
 
 .cbr-replaced.cbr-gray.cbr-checked span {
-    background-image: url(../images/ok.png)
+
 }
 
 .cbr-replaced+label {
@@ -8125,10 +8125,6 @@ div.scrollable {
     margin-top: -15px
 }
 
-lesshat-selector {
-    -lh-property: 0
-}
-
 @-webkit-keyframes loaderAnimate {
     0% {
         -webkit-transform: rotate(0deg)
@@ -8169,10 +8165,6 @@ lesshat-selector {
         -ms-transform: rotate(220deg);
         transform: rotate(220deg)
     }
-}
-
-lesshat-selector {
-    -lh-property: 0
 }
 
 @-webkit-keyframes loaderAnimate2 {
@@ -8279,10 +8271,6 @@ lesshat-selector {
     margin-top: -15px
 }
 
-lesshat-selector {
-    -lh-property: 0
-}
-
 @-webkit-keyframes loaderAnimate2 {
     0% {
         -webkit-transform: rotate(0deg)
@@ -8323,10 +8311,6 @@ lesshat-selector {
         -ms-transform: rotate(220deg);
         transform: rotate(220deg)
     }
-}
-
-lesshat-selector {
-    -lh-property: 0
 }
 
 @-webkit-keyframes loaderAnimate22 {
