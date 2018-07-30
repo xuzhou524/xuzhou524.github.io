@@ -802,7 +802,7 @@ body {
     padding: 30px;
     padding-bottom: 0;
     vertical-align: top;
-    word-break: break-word;
+    word-break: break-all;
     width: 100%;
     -webkit-transition: opacity 100ms ease-in-out;
     -moz-transition: opacity 100ms ease-in-out;
@@ -2163,24 +2163,6 @@ body {
     }
 }
 
-@media screen and (max-width:768px) and screen and (max-width:768px) {
-    .navbar.horizontal-menu .navbar-inner .navbar-nav {
-        margin-top: 10px;
-        margin-bottom: 10px
-    }
-}
-
-@media screen and (max-width:768px) and screen and (min-width:768px) {
-    .navbar.horizontal-menu .navbar-inner .navbar-nav ul li.is-hidden {
-        left: -20px;
-        zoom: 1;
-        filter: alpha(opacity=0);
-        -webkit-opacity: 0;
-        -moz-opacity: 0;
-        opacity: 0
-    }
-}
-
 footer.main-footer {
     padding: 20px 30px;
     border-top: 1px solid #ddd;
@@ -2683,7 +2665,6 @@ body.chat-open .user-info-navbar a[data-toggle=chat] {
     left: 0;
     right: 0;
     top: -1px;
-    background-color: none;
     height: 1px;
     background-color: #ededed
 }
@@ -4907,8 +4888,6 @@ body.chat-open #chat {
 
 .cbr-replaced .cbr-state span {
     display: block;
-    background: url(../images/ok.png) no-repeat center center;
-    background-image: none;
     position: absolute;
     left: 0;
     right: 0;
@@ -4918,7 +4897,7 @@ body.chat-open #chat {
 }
 
 .cbr-replaced.cbr-checked span {
-    background-image: url(../images/ok.png)
+
 }
 
 .cbr-replaced.cbr-disabled {
@@ -5614,11 +5593,11 @@ label.cbr-inline+.cbr-inline {
 
 .btn.btn-purple.btn-icon-standalone i {
     background-color: #7233ac;
-    border-right-color: #NaNNaNNaN
+    border-right-color: #FFB400
 }
 
 .btn.btn-purple.btn-icon-standalone.btn-icon-standalone-right i {
-    border-left-color: #NaNNaNNaN
+    border-left-color: #FFB400
 }
 
 .btn.btn-purple.btn-icon-standalone.btn-icon-standalone-right:hover i {
@@ -6811,58 +6790,33 @@ blockquote small {
 
 .table.table-bordered>thead>tr>td,
 .table.table-bordered>tbody>tr>td,
-.table.table-bordered>tfood>tr>td,
 .table.table-bordered>thead>tr>th,
 .table.table-bordered>tbody>tr>th,
-.table.table-bordered>tfood>tr>th {
-    border-color: #eee
-}
 
 .table>thead>tr>td,
 .table>tbody>tr>td,
-.table>tfood>tr>td,
 .table>thead>tr>th,
 .table>tbody>tr>th,
-.table>tfood>tr>th {
-    padding: 12px 15px
-}
 
 .text-center.table>thead>tr>td,
 .text-center.table>tbody>tr>td,
-.text-center.table>tfood>tr>td,
 .text-center.table>thead>tr>th,
 .text-center.table>tbody>tr>th,
-.text-center.table>tfood>tr>th {
-    text-align: center!important
-}
 
 .middle-align.table>thead>tr>td,
 .middle-align.table>tbody>tr>td,
-.middle-align.table>tfood>tr>td,
 .middle-align.table>thead>tr>th,
 .middle-align.table>tbody>tr>th,
-.middle-align.table>tfood>tr>th {
-    vertical-align: middle
-}
 
 .table>thead>tr>td.middle-align,
 .table>tbody>tr>td.middle-align,
-.table>tfood>tr>td.middle-align,
 .table>thead>tr>th.middle-align,
 .table>tbody>tr>th.middle-align,
-.table>tfood>tr>th.middle-align {
-    vertical-align: middle
-}
 
 .table>thead>tr.no-borders>td,
 .table>tbody>tr.no-borders>td,
-.table>tfood>tr.no-borders>td,
 .table>thead>tr.no-borders>th,
 .table>tbody>tr.no-borders>th,
-.table>tfood>tr.no-borders>th {
-    border-left: 0;
-    border-right: 0
-}
 
 .table>thead>tr>td,
 .table>thead>tr>th {
@@ -6944,12 +6898,8 @@ blockquote small {
 
 .table.table-model-2>thead>tr>td,
 .table.table-model-2>tbody>tr>td,
-.table.table-model-2>tfood>tr>td,
 .table.table-model-2>thead>tr>th,
 .table.table-model-2>tbody>tr>th,
-.table.table-model-2>tfood>tr>th {
-    border-color: #ddd
-}
 
 .table.table-model-2.table-bordered {
     border-color: #ddd
