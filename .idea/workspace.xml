@@ -4,7 +4,10 @@
     <list default="true" id="71d6e5dd-2d78-409a-a1b6-e66c1f238dbd" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cn/about.html" afterPath="$PROJECT_DIR$/cn/about.html" />
+<<<<<<< HEAD
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+=======
+>>>>>>> d34b4977ba29b246a06c1e880290c8d2f77aeb6e
     </list>
     <ignored path="ShareHub.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -50,18 +53,28 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cn/index.html">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="189">
               <caret line="9" column="30" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="30" />
+=======
+            <state relative-caret-position="181">
+              <caret line="1803" column="24" selection-start-line="1803" selection-start-column="24" selection-end-line="1803" selection-end-column="151" />
+>>>>>>> d34b4977ba29b246a06c1e880290c8d2f77aeb6e
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="about.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cn/about.html">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="231">
               <caret line="11" column="116" selection-start-line="10" selection-start-column="4" selection-end-line="11" selection-end-column="116" />
+=======
+            <state relative-caret-position="202">
+              <caret line="139" column="45" selection-start-line="139" selection-start-column="45" selection-end-line="139" selection-end-column="45" />
+>>>>>>> d34b4977ba29b246a06c1e880290c8d2f77aeb6e
               <folding />
             </state>
           </provider>
@@ -99,9 +112,15 @@
         <option value="$PROJECT_DIR$/assets/css/bootstrap.css" />
         <option value="$PROJECT_DIR$/assets/css/suishidaohang.css" />
         <option value="$PROJECT_DIR$/assets/css/xenon-core.css" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/cn/index.html" />
         <option value="$PROJECT_DIR$/cn/about.html" />
         <option value="$PROJECT_DIR$/index.html" />
+=======
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/cn/index.html" />
+        <option value="$PROJECT_DIR$/cn/about.html" />
+>>>>>>> d34b4977ba29b246a06c1e880290c8d2f77aeb6e
       </list>
     </option>
   </component>
@@ -264,12 +283,19 @@
       <workItem from="1532597397825" duration="3732000" />
       <workItem from="1532680494858" duration="6081000" />
       <workItem from="1532937108764" duration="6157000" />
+<<<<<<< HEAD
       <workItem from="1533006709945" duration="60000" />
+=======
+>>>>>>> d34b4977ba29b246a06c1e880290c8d2f77aeb6e
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="21733000" />
+=======
+    <option name="totallyTimeSpent" value="21673000" />
+>>>>>>> d34b4977ba29b246a06c1e880290c8d2f77aeb6e
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="36" width="1852" height="1004" extended-state="0" />
@@ -553,7 +579,15 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/assets/images/logos/gitHub.png" />
+=======
+    <entry file="file://$PROJECT_DIR$/assets/images/logos/gitHub.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+>>>>>>> d34b4977ba29b246a06c1e880290c8d2f77aeb6e
     <entry file="file://$PROJECT_DIR$/assets/images/logos/gaoding.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -584,16 +618,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cn/index.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="189">
           <caret line="9" column="30" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="30" />
+=======
+        <state relative-caret-position="181">
+          <caret line="1803" column="24" selection-start-line="1803" selection-start-column="24" selection-end-line="1803" selection-end-column="151" />
+>>>>>>> d34b4977ba29b246a06c1e880290c8d2f77aeb6e
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
           <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+=======
+    <entry file="file://$PROJECT_DIR$/cn/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="139" column="45" selection-start-line="139" selection-start-column="45" selection-end-line="139" selection-end-column="45" />
+>>>>>>> d34b4977ba29b246a06c1e880290c8d2f77aeb6e
           <folding />
         </state>
       </provider>
