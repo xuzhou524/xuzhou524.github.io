@@ -3,18 +3,18 @@
     "message":"success",
     "data":{
         "banner":[
-                {
-                    "image":"http://dwz.cn/8caiCJ",
-                    "url":"http://news.cctv.com/2018/07/14/ARTIDFqiZWcy3OT3tDyKssMN180714.shtml"
-                },
-                {
-                    "image":"http://t.cn/Rgw28LV",
-                    "url":"http://news.cctv.com/2018/07/14/ARTIDFqiZWcy3OT3tDyKssMN180714.shtml"
-                },
-                {
-                    "image":"http://t.cn/Rgw2ssD",
-                    "url":"http://news.cctv.com/2018/07/14/ARTIDFqiZWcy3OT3tDyKssMN180714.shtml"
-                }
+            {
+                "image":"http://dwz.cn/8caiCJ",
+                "url":"http://news.cctv.com/2018/07/14/ARTIDFqiZWcy3OT3tDyKssMN180714.shtml"
+            },
+            {
+                "image":"http://t.cn/Rgw28LV",
+                "url":"http://news.cctv.com/2018/07/14/ARTIDFqiZWcy3OT3tDyKssMN180714.shtml"
+            },
+            {
+                "image":"http://t.cn/Rgw2ssD",
+                "url":"http://news.cctv.com/2018/07/14/ARTIDFqiZWcy3OT3tDyKssMN180714.shtml"
+            }
         ],
         "everyDaySentence":[ 
             {
