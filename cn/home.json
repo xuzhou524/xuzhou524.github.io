@@ -1,0 +1,31 @@
+{
+    "code":200,
+    "message":"success",
+    "data":{
+        "banner":{
+            "list":[
+                {
+                    "image":"http://dwz.cn/8caiCJ",
+                    "url":"http://news.cctv.com/2018/07/14/ARTIDFqiZWcy3OT3tDyKssMN180714.shtml"
+                },
+                {
+                    "image":"http://t.cn/Rgw28LV",
+                    "url":"http://news.cctv.com/2018/07/14/ARTIDFqiZWcy3OT3tDyKssMN180714.shtml"
+                },
+                {
+                    "image":"http://t.cn/Rgw2ssD",
+                    "url":"http://news.cctv.com/2018/07/14/ARTIDFqiZWcy3OT3tDyKssMN180714.shtml"
+                }
+            ]
+        },
+        "everyDaySentence":[ 
+            {
+            	"day":"1",
+                "oneSentence":"拾掇生活中的点滴",
+                "twoSentence":"记录时光的故事",
+                "name":"如念",
+                "source":"时光音乐电台"
+            },
+        ],
+    }
+}
