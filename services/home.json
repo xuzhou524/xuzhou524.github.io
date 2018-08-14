@@ -2,8 +2,7 @@
     "code":200,
     "message":"success",
     "data":{
-        "banner":{
-            "list":[
+        "banner":[
                 {
                     "image":"http://dwz.cn/8caiCJ",
                     "url":"http://news.cctv.com/2018/07/14/ARTIDFqiZWcy3OT3tDyKssMN180714.shtml"
@@ -16,8 +15,7 @@
                     "image":"http://t.cn/Rgw2ssD",
                     "url":"http://news.cctv.com/2018/07/14/ARTIDFqiZWcy3OT3tDyKssMN180714.shtml"
                 }
-            ]
-        },
+        ],
         "everyDaySentence":[ 
             {
             	"day":"1",
