@@ -6243,7 +6243,7 @@ button.close {
     color: #fff;
     text-align: center;
     text-decoration: none;
-    background-color: #000;
+    background-color: #13334c;
     border-radius: 0
 }
 
@@ -6260,7 +6260,7 @@ button.close {
     left: 50%;
     margin-left: -5px;
     border-width: 5px 5px 0;
-    border-top-color: #000
+    border-top-color: #13334c
 }
 
 .tooltip.top-left .tooltip-arrow {
@@ -6268,7 +6268,7 @@ button.close {
     right: 5px;
     margin-bottom: -5px;
     border-width: 5px 5px 0;
-    border-top-color: #000
+    border-top-color: #13334c
 }
 
 .tooltip.top-right .tooltip-arrow {
@@ -6276,7 +6276,7 @@ button.close {
     left: 5px;
     margin-bottom: -5px;
     border-width: 5px 5px 0;
-    border-top-color: #000
+    border-top-color: #13334c
 }
 
 .tooltip.right .tooltip-arrow {
@@ -6284,7 +6284,7 @@ button.close {
     left: 0;
     margin-top: -5px;
     border-width: 5px 5px 5px 0;
-    border-right-color: #000
+    border-right-color: #13334c
 }
 
 .tooltip.left .tooltip-arrow {
@@ -6292,7 +6292,7 @@ button.close {
     right: 0;
     margin-top: -5px;
     border-width: 5px 0 5px 5px;
-    border-left-color: #000
+    border-left-color: #13334c
 }
 
 .tooltip.bottom .tooltip-arrow {
@@ -6300,7 +6300,7 @@ button.close {
     left: 50%;
     margin-left: -5px;
     border-width: 0 5px 5px;
-    border-bottom-color: #000
+    border-bottom-color: #13334c
 }
 
 .tooltip.bottom-left .tooltip-arrow {
@@ -6308,7 +6308,7 @@ button.close {
     right: 5px;
     margin-top: -5px;
     border-width: 0 5px 5px;
-    border-bottom-color: #000
+    border-bottom-color: #13334c
 }
 
 .tooltip.bottom-right .tooltip-arrow {
@@ -6316,7 +6316,7 @@ button.close {
     left: 5px;
     margin-top: -5px;
     border-width: 0 5px 5px;
-    border-bottom-color: #000
+    border-bottom-color: #13334c
 }
 
 .popover {
