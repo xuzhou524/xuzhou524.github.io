@@ -1,5 +1,10 @@
 {
     "code":200,
     "msg":"success",
-    "data":{}
+    "data":{
+        "content":"https://i.loli.net/2018/12/27/5c2447073d0ae.jpg",
+        "openUrl":"http://www.it7090.com",
+        "contentSize":"1242*1786",
+        "duration":5
+    }
 }
