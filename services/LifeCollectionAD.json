@@ -6,5 +6,6 @@
         "openUrl":"https://www.gezhipu.com",
         "contentSize":"1242*1786",
         "duration":5,
+        "support":"alipayqr://platformapi/startapp?saId=10000007&qrcode=https://qr.alipay.com/fkx01590ythcty3atyusi88?t=1545729953985"
     }
 }
